@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on: **My Django Course Projects**
 - 🌱 I’m currently learning: **Django**
 - 💬 Ask me about: **Any Phone or Laptop Problems**
-- 👨‍💻 All of my projects are available at: [zil.ink/iAreff](https://zil.ink/iAreff)
+- 👨‍💻 All of my projects are available at --> [Zil.ink](https://zil.ink/iAreff)
 - ⚡ Fun fact: **I'm left handed**
 
 <!-- - 👯 I’m looking to collaborate on ...
@@ -25,39 +25,39 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" alt="html5 logo"  />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
-  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60" alt="bootstrap logo"  />
   <img width="17" />
 
   <!--
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="tailwindcss logo"  />
-  <img width="18" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
-  <img width="18" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="18" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="18" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="60" alt="numpy logo"  />
-  <img width="18" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" alt="pandas logo"  />
-  <img width="18" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" height="60" alt="pytest logo"  />
-  <img width="18" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60" alt="premierepro logo"  />
+  <img width="17" />
   -->
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" alt="vscode logo"  />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="60" alt="photoshop logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60" alt="premierepro logo"  />
 </div>
 
 ## 📊 GitHub Stats:
@@ -70,10 +70,10 @@
 
 ## 📱 Social Medias:
 <div align="left">
-  <a href="T.me/iAreff" target="_blank">
+  <a href="https://t.me/iAreff" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  />
   </a>
-  <a href="instagram.com/ArefPiano" target="_blank">
+  <a href="https://instagram.com/ArefPiano" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
   </a>
 </div>
